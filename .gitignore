@@ -16,6 +16,5 @@ node_modules/
 browserslist
 karma.conf.js
 package-lock.json
-tsconfig.json
 tsconfig.spec.json
 tslint.json
