@@ -1,6 +1,6 @@
 version: "3.8"
 
-service:
+services:
   cmsdb:
     image: mysql:latest
     mem_limit: 700m
